@@ -1,7 +1,5 @@
 # ********************************
-# I no longer have that laptop so unfortunately I can no longer offer support for this repo
-# This repo will archived and all open issues are closed
-# The current state of this repo is 100% compatible with macOS Big Sur & previous versions
+# This is a fork from the original repo that has been created by Racka98. It hasn't been tested yet - it was only upgraded to OpenCore 1.0.2.
 # ********************************
 
 # Lenovo Thinkpad T450 & T450s Hackintosh Guide for Mojave, Catalina, Big Sur & Monterey with OpenCore
